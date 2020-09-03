@@ -1,6 +1,6 @@
 # blingbling-everyday
 
-[![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
+[![Build Status](https://github.com/eyea/blingbling-everyday/workflows/CI/badge.svg?branch=master&event=status)](https://github.com/eyea/blingbling-everyday/actions)
 
 自动保持 GitHub 提交状态常绿。
 
@@ -41,7 +41,7 @@
 
 ## License
 
-[blingbling-everyday](https://github.com/eyea/blingbling-everyday) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[blingbling-everyday](https://github.com/eyea/blingbling-everyday) is released under the [MIT](./LICENSE) License.
 
 ##### 感谢
 [justjavac](https://github.com/justjavac/auto-green)
