@@ -1,6 +1,6 @@
 # blingbling-everyday
 
-[![Build Status](https://github.com/eyea/blingbling-everyday/workflows/CI/badge.svg?branch=master&event=status)](https://github.com/eyea/blingbling-everyday/actions)
+[![CI](https://github.com/eyea/blingbling-everyday/workflows/CI/badge.svg)](https://github.com/eyea/blingbling-everyday/actions)
 
 自动保持 GitHub 提交状态常绿。
 
