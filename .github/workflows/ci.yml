@@ -10,12 +10,12 @@ on:
 #   pull_request:
 #     branches: [ master ]
   schedule:
-    - cron: "32 16 * * *"
+    - cron: "21 05 * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
+  # This workflow contains a single job called "blingbling-everyday"
+  blingbling-everyday:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
